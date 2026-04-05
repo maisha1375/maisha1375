@@ -9,3 +9,6 @@
 ✨ CSS  
 ✨ Bootstrap
 
+🧠 I'm currently learning...
+- Wordpress  
+- Tailwind css
